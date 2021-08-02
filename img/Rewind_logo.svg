@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="Rewind_logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.7500982"
+     inkscape:cx="335.95601"
+     inkscape:cy="560.59326"
+     inkscape:window-width="2560"
+     inkscape:window-height="1027"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <rect
+       x="418.61185"
+       y="673.24518"
+       width="414.61238"
+       height="54.65951"
+       id="rect97078" />
+    <rect
+       x="78.656367"
+       y="642.58253"
+       width="619.91879"
+       height="87.988396"
+       id="rect94330" />
+    <rect
+       x="698.57516"
+       y="730.57092"
+       width="3.7841938"
+       height="85.334099"
+       id="rect88414" />
+    <rect
+       x="77.323209"
+       y="634.58357"
+       width="621.25195"
+       height="95.987349"
+       id="rect75458" />
+    <linearGradient
+       id="linearGradient57006"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#888181;stop-opacity:1;"
+         offset="0"
+         id="stop57004" />
+    </linearGradient>
+    <rect
+       x="243.96806"
+       y="237.30226"
+       width="186.64223"
+       height="43.994239"
+       id="rect53008" />
+    <rect
+       x="78.656364"
+       y="210.63908"
+       width="620.1341"
+       height="95.97547"
+       id="rect47962" />
+    <rect
+       x="138.64851"
+       y="666.57939"
+       width="487.93611"
+       height="89.321638"
+       id="rect25580" />
+    <linearGradient
+       id="linearGradient7046"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#ffbb8d;stop-opacity:0.40392157;"
+         offset="0"
+         id="stop7044" />
+    </linearGradient>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter3542"
+       x="-0.013548046"
+       y="-0.010735469"
+       width="1.0255134"
+       height="1.0215417">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.30246017"
+         id="feGaussianBlur3544" />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7046"
+       id="linearGradient7048"
+       x1="45.995366"
+       y1="125.92517"
+       x2="119.78849"
+       y2="125.92517"
+       gradientUnits="userSpaceOnUse" />
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter7734"
+       x="-0.013655938"
+       y="-0.010822124"
+       width="1.0257292"
+       height="1.021715">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.30569502"
+         id="feGaussianBlur7736" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter9178"
+       x="-0.013655939"
+       y="-0.010822122"
+       width="1.0257292"
+       height="1.021715">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.30569501"
+         id="feGaussianBlur9180" />
+    </filter>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="opacity:0.83;fill:#bde9de;fill-opacity:0.30120483;stroke:#6f6f6f;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0.835341;filter:url(#filter9178)"
+       d="M 92.768409,81.128266 91.710213,170.72209 20.811164,124.51425 Z"
+       id="path917"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="opacity:0.830128;fill:url(#linearGradient7048);fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0.2249;filter:url(#filter3542)"
+       d="m 138.68047,81.125094 -1.0582,89.593816 -70.899055,-46.20783 z"
+       id="path917-7"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="opacity:0.83;mix-blend-mode:normal;fill:#cd0000;fill-opacity:0.49799198;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0.771084;filter:url(#filter7734)"
+       d="m 184.88831,81.1251 -1.0582,89.59381 -70.89906,-46.20783 z"
+       id="path917-7-6"
+       sodipodi:nodetypes="cccc"
+       inkscape:transform-center-x="-33.213714"
+       inkscape:transform-center-y="-12.701508" />
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text25578"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect25580);fill:#000000;fill-opacity:1;stroke:none" />
+    <text
+       xml:space="preserve"
+       transform="matrix(1.0262373,0,0,0.71214846,-73.480874,-93.584891)"
+       id="text47960"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:25px;font-family:'Copperplate Gothic Bold';-inkscape-font-specification:'Copperplate Gothic Bold, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect47962);fill:#888181;fill-opacity:1;paint-order:markers fill stroke"><tspan
+         x="78.65625"
+         y="242.34397"
+         id="tspan98741">REWIND</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text53006"
+       style="line-height:25px;font-family:sans-serif;font-size:40px;white-space:pre;shape-inside:url(#rect53008)" />
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text75456"
+       style="line-height:25px;font-family:'Wide Latin';font-size:48px;-inkscape-font-specification:'Wide Latin, Normal';white-space:pre;shape-inside:url(#rect75458)" />
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text88412"
+       style="line-height:25px;font-family:'Wide Latin';font-size:48px;-inkscape-font-specification:'Wide Latin, Normal';white-space:pre;shape-inside:url(#rect88414)" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,34.567696,8.1128266)"
+       id="text94328"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3333px;line-height:25px;font-family:'Gill Sans Ultra Bold';-inkscape-font-specification:'Gill Sans Ultra Bold, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect94330)"><tspan
+         x="78.65625"
+         y="664.49727"
+         id="tspan98743">There and back again</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text97076"
+       style="line-height:25px;font-family:'Wide Latin';font-size:48px;-inkscape-font-specification:'Wide Latin, Normal';white-space:pre;shape-inside:url(#rect97078)" />
+  </g>
+</svg>
