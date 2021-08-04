@@ -24,7 +24,7 @@
 
     <link href="./css/prism.css" rel="stylesheet" />
     <link href="./css/site.css" rel="stylesheet" />
-   
+
     <link rel="icon" type="image/png" href="img/favicon_io/favicon-32x32.png" />
   </head>
   <body class="d-flex flex-column h-100">
@@ -78,22 +78,101 @@
     <!-- main section -->
     <main class="flex-shrink-0">
       <div class="container py-5 px-5 mt-5">
-          <h2 class="border-1 border-bottom border-dark">The Code For REWIND</h2>
-          <div class="row row-cols-1 row-cols-md-2">
-              <div class="col-lg-8">
-                  <pre class="line-numbers"><code class="language-javascript">
-                    //Call HelloWorld
-                    function HelloWorld() {
-                        alert('Hello World');
-                    }
+        <h2 class="border-1 border-bottom border-dark">The Code For REWIND</h2>
+        <div class="row row-cols-1 row-cols-md-2">
+          <div class="col-lg-8">
+            <pre class="line-numbers"><code class="language-javascript">
+                    // controller function:
+function handleBtnSubmitClickEvent() {
+    makeAlertBoxInvisible();
+
+    let userInput = getUserInput();
+
+    if (isEmpty(userInput)) {
+        alert('Input cannot be empty, please try again.')
+    } else {
+        const revString = reverseString(userInput);
+        displayString(revString);
+    }
+}
+
+// logic functions:
+// get user input from the page
+function getUserInput() {
+    return document.getElementById('userString').value;
+}
+
+// validate the string
+function isEmpty(stringInput) {
+    return stringInput.length === 0 ? true : false;
+}
+
+// reverse the string
+function reverseString(stringInput) {
+    const arr = Array.from(stringInput);
+    arr.reverse();
+
+    return arr.join('');
+}
+
+// view functions:
+// display reversed string to the user
+function displayString(stringToDisplay) {
+    const alertMessage = document.getElementById('message');
+    alertMessage.innerText = `Your reversed string is: ${stringToDisplay}`;
+
+    makeAlertBoxVisible();
+}
+
+function makeAlertBoxInvisible() {
+    document.getElementById('alert').classList.add('invisible');
+}
+
+function makeAlertBoxVisible() {
+    document.getElementById('alert').classList.remove('invisible');
+}
                   </code></pre>
-              </div>
-              <div class="col-lg-4">
-                <p>The Code is structured in one function.</p>
-                <h5>Hello World</h5>
-                <p>Hello World is a function that displays am alert with a message of 'Hello World'</p>
-              </div>
           </div>
+          <div class="col-lg-4">
+            <h4 class="border-bottom border-danger mb-3">Controller Function:</h4>
+            <h5>handleBtnSubmitClickEvent()</h5>
+            <p>
+              It is the function where Rewind app lives- it is triggered by button click.
+              It makes alert box invisible, then gets user input from the form. 
+            </p>
+            <p>
+              Once input is validated, it reverses the input and displays reversed string to the page.
+            </p>
+            <h4 class="border-bottom border-danger mb-3">Logic Functions:</h4>
+            <h5>getUserInput()</h5>
+            <p>
+              This function uses javascript to get user information from the web form (via DOM).
+            </p>
+            <h5>isEmpty()</h5>
+            <p>
+              This function validates if user input is not an empty string. There is no need to proceed with the program if the input is incorrect.
+            </p>
+            <h5>reverseString()</h5>
+            <p>
+              Once input is validated and correct- it is passed to this function which will return reversed input string.<br>
+              It is done in three steps: Change input string to array, reverse it in place and finally join reversed array into string again.
+            </p>
+            <h4 class="border-bottom border-danger mb-3">View Functions:</h4>
+            <h5>displayString()</h5>
+            <p>
+              Reversed string is passed to this function, so it can be displayed. The function will get alert box (using DOM manipulation) and inject text to alerMessage element HTML.
+              Lastly, it will make alert box visibile to the user.
+            </p>
+            <h5>makeAlertBoxInvisible()</h5>
+            <p>
+              Using DOM, this function will add 'invisible' class to the alert box element. Alert box will be invisible.
+            </p>
+            <h5>makeAlertBoxVisible()</h5>
+            <p>
+              Using DOM, this function will remove 'invisible' class to the alert box element. Alert box will be visible.
+            </p>
+          </div>
+        </div>
       </div>
     </main>
     <!-- footer section -->

@@ -1,5 +1,5 @@
 // controller function:
-function handleReverseStringButtonClickEvent() {
+function handleBtnSubmitClickEvent() {
     makeAlertBoxInvisible();
 
     let userInput = getUserInput();
@@ -17,7 +17,6 @@ function handleReverseStringButtonClickEvent() {
 function getUserInput() {
     return document.getElementById('userString').value;
 }
-
 
 // validate the string
 function isEmpty(stringInput) {
